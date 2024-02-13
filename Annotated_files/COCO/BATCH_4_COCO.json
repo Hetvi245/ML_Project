@@ -1,0 +1,13 @@
+{
+	"info": {
+		"description": "batch_4"
+	},
+	"images": [],
+	"annotations": [],
+	"categories": [
+		{
+			"id": 1,
+			"name": "spot"
+		}
+	]
+}
